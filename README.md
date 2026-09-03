@@ -89,6 +89,13 @@ A web application for tracking and managing personal expenses, helping users kee
 
 🐙 [GitHub](https://github.com/itskasaudhan)
 
+📧 [Email](mailto:pawank273212@gmail.com)
+
+---
+
+### ⚡ Always Learning. Always Building. 🚀
+
+
 ---
 
 ### ⚡ Always Learning. Always Building. 🚀
