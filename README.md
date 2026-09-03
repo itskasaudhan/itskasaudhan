@@ -82,23 +82,6 @@ A web application for managing personal expenses and keeping track of spending i
 
 ---
 
-## 🧠 Problem Solving
-
-I regularly practice Data Structures & Algorithms using C++.
-
-**Topics:**
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `Recursion` • `Dynamic Programming` • `Sorting` • `Searching`
-
----
-
-## 📊 GitHub Stats
-
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskasaudhan\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itskasaudhan\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
