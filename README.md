@@ -76,7 +76,7 @@ An AI-powered resume analysis application that helps users analyze their resumes
 
 A web application for tracking and managing personal expenses, helping users keep their spending organized.
 
-**Tech:** React.js • JavaScript • Node.js • Express.js • MongoDB
+**Tech:** React.js • JavaScript 
 
 🔗 [Live Demo](https://expense-tracker-mu-three-86.vercel.app/) • [View Repository](https://github.com/itskasaudhan/expense_trackernow)
 
