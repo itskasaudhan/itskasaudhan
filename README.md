@@ -78,7 +78,7 @@ A web application for tracking and managing personal expenses, helping users kee
 
 **Tech:** React.js • JavaScript 
 
-🔗 [Live Demo](https://expense-tracker-mu-three-86.vercel.app/) • [View Repository](https://github.com/itskasaudhan/expense_trackernow)
+🔗 [Live Demo](https://expense-tracker-mu-three-86.vercel.app/) • [View Repository](https://github.com/itskasaudhan/expense_tracker)
 
 ---
 
